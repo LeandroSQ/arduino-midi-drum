@@ -1,0 +1,6 @@
+{
+    "sketch": "MIDIDrum.ino",
+    "board": "arduino:avr:micro",
+    "programmer": "arduino:avrisp",
+    "port": "COM6"
+}
